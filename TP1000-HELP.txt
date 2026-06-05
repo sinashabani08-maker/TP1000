@@ -1,0 +1,25 @@
+┈┈┈╲┈┈┈┈╱
+┈┈┈╱▔▔▔▔╲
+┈┈┃┈▇┈┈▇┈┃--──▄────▄▄▄▄▄▄▄────▄─
+╭╮┣━━━━━━┫╭╮─▀▀▄─▄█████████▄─▄▀▀
+┃┃┃┈┈┈┈┈┈┃┃┃─────██─▀███▀─██────
+╰╯┃┈┈┈┈┈┈┃╰╯───▄─▀████▀████▀─▄──
+┈┈╰┓┏━━┓┏╯--─▀█────██▀█▀██────█
+┈┈┈╰╯┈┈╰╯
+
+
+TP 1000 RAR version 
+
+description Code: TP1000RTYFJ Date of 
+
+creation 16/2/1405 Compatible only with
+
+ Termux service provider
+
+ Create folder Show your IP Give
+
+ memory to Termux Automatic
+
+ script installer
+
+ for both VGate and Git
